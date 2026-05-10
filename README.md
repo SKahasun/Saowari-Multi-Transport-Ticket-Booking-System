@@ -265,7 +265,7 @@ This project was developed as part of the **IsDB-BISEW IT Scholarship Programme*
 | Student Name | Student ID | Role |
 |---|---|---|
 | Sheikh Ahasunul Islam | 1294372 | 👑 Team Leader |
-| Nakibul Islam Fahim | 1294702 | Team Member |
+| Nakibul Islam Fahim | 1294702 | 🪖 Co Leader |
 | Shamsul Arefin | 1294499 | Team Member |
 | Ahsan-Ul-Hafeez | 1294650 | Team Member |
 | Al Arafat Bhuiyan | 1294365 | Team Member |
